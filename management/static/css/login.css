@@ -154,5 +154,16 @@ label {
     border: 2px solid rgb(26, 115, 232) !important;
 }
 
+@media only screen and (min-width: 480px) and (max-width: 740px){
+    
+ }
+ 
+ @media only screen and (max-width: 480px) {
+    
+ 
+ }
+
+
+
 
 
